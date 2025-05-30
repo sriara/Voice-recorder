@@ -14,7 +14,7 @@
 <hr>
 <h1>Ourput</h1>
 <audio controls>
-    <source src="out.wav" type="audio/mpeg">
+    <source src="out.wav" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
 
