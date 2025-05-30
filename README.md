@@ -13,7 +13,11 @@
 <p>Run app:  python Vrec.py </p>
 <hr>
 <h1>Ourput</h1>
-<img src="out.wav" alt="audio">
+<audio controls>
+    <source src="out.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+
     
 </body>
 </html>
